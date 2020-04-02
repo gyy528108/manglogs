@@ -1,0 +1,6 @@
+logging:
+  file:
+    path: ./logs/lowi
+server:
+  port: 8088
+inNewLogMethod: /bigDataMethod
